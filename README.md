@@ -7,5 +7,5 @@ JATE is a PWA text editor which utilizes local storage and an IndexedDB database
 Open the app and edit away! Progress is saved to the database when the user clicks away from the text editor window.
 
 ## Application
-[Deployed App](link)
+[Deployed App](https://shrouded-fortress-95381-0d4a7fb0fa0a.herokuapp.com/)
 ![Screenshot](./assets/jateScreenshot.png)
